@@ -20,3 +20,4 @@ for i in range(580):
     lt(141)
     
 done()
+"hola mundo"
